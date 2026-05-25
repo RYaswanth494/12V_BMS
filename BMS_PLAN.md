@@ -339,7 +339,6 @@ After building:
 * Data logging
 
 ---
-
 # STEP 2 — CELL BALANCING
 
 ## Functions
